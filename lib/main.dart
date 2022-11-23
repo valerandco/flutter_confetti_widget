@@ -17,8 +17,6 @@ class MyApp extends StatelessWidget {
       home:  HomePage(),
       theme: ThemeData(primaryColor: Colors.deepPurple),
 
-
-
     );
   }
 }
