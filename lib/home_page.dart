@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
           blastDirection: pi / 2,
           colors: const [
             Colors.deepPurple,
-            Colors.yellow,
+            Colors.pinkAccent,
           ],
           gravity: 0.01 ,
           emissionFrequency: 0.1,
