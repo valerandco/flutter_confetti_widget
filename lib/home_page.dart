@@ -52,6 +52,8 @@ class _HomePageState extends State<HomePage> {
             Colors.deepPurple,
             Colors.pinkAccent,
             Colors.indigoAccent,
+
+
           ],
           gravity: 0.01 ,
           emissionFrequency: 0.1,
